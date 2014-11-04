@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 e7ba2424ac00982386344a73aeb1964a527e779f Shawn <Shawn@192.168.1.66> 1383016165 -0700	
+e7ba2424ac00982386344a73aeb1964a527e779f 3d8f3af6729e8c9ad5e29dd382382d65df70cbdd Shawn <Shawn@192.168.1.66> 1383021158 -0700	commit: changed some names and added extra field as appropriate.  > Cherry, changed the params of classPacket
+3d8f3af6729e8c9ad5e29dd382382d65df70cbdd 8db5131d8e4203f7b26e8b444ae02190123880af Shawn <Shawn@192.168.1.66> 1383034937 -0700	commit: completed basic parser methods and established dataflow link across all modules. basic functionality implemented.
+8db5131d8e4203f7b26e8b444ae02190123880af a4ffeb30e454684febb79687d7c6efcd8d995330 Shawn <Shawn@192.168.1.66> 1383051063 -0700	commit: redefined association/relationship names according to their correct definitions. fixed some bugs up and cleaned up visualiser. 
+a4ffeb30e454684febb79687d7c6efcd8d995330 c9778809a21bd4db5ba9f5556b4366f1eb2b322b Shawn <Shawn@192.168.1.66> 1383090464 -0700	commit: forgot to include relevant libraries.
+c9778809a21bd4db5ba9f5556b4366f1eb2b322b dd4ce395bf5a544648efad2f81b66f8545f6c180 Shawn <Shawn@192.168.1.66> 1383090944 -0700	commit: problem with previous commit - this should solve it.
+dd4ce395bf5a544648efad2f81b66f8545f6c180 66f12c8d309d67d7672b10df280fe46a868f0340 Shawn <Shawn@192.168.1.66> 1383091034 -0700	commit: libraries are not being uploaded.
+66f12c8d309d67d7672b10df280fe46a868f0340 d6858823bf1ed8eb6a89c53e3cb270d0bc694f58 Shawn <Shawn@192.168.1.66> 1383095885 -0700	commit: made two test classes (not testcases) and fixed some bugs.

@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/cpsc410-team9/CS410---TeamVersion.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	push = +HEAD:refs/heads/master
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[remote "upstream"]
+	url = https://github.com/TylerPadfoot/CS410.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
